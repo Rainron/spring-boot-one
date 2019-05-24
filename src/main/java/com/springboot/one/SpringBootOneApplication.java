@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("hello")
+@RequestMapping("hell")
 public class SpringBootOneApplication {
 
     public static void main(String[] args) {
